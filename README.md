@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BehnamSeydAbadi
-- 👀 I’m interested in Programming using .NET and React
+- 👀 I’m interested in programming using .NET and React
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on 
 - 📫 You can reach me using my email. behnamsa96@outlook.com
