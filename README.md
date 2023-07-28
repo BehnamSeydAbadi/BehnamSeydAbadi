@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BehnamSeydAbadi
-- 👀 I’m interested in programming using .NET and React
-- 🌱 I’m currently learning MongoDb
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in programming using .NET
+- 🌱 I’m currently learning "Async/Await", "Parallel", "Cancelation" and "Synchronization" in C#
 - 📫 You can reach me using my email. behnamsa96@outlook.com
 
 <!---
