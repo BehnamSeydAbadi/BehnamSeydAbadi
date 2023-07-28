@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BehnamSeydAbadi
+- 👋 Hi, I’m Behnam SeydAbadi
 - 👀 I’m interested in programming using .NET
 - 🌱 I’m currently learning "Async/Await", "Parallel", "Cancelation" and "Synchronization" in C#
 - 📫 You can reach me using my email. behnamsa96@outlook.com
